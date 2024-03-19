@@ -1,6 +1,7 @@
 # java_assignment
 
 The question list are below: 
+
 1.Write a program create a class ‘simpleobject‘. Using constructor display the message.
 
 2.Write a program for the following 1. Example for call by value. 2. Example for call by reference.
